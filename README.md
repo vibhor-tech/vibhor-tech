@@ -17,7 +17,7 @@
 
 ---
 
-### 💡 Projects I'm Worked On
+### 💡 Projects I've Worked On
 
 - *AI & ML projects- https://github.com/vibhor-tech/-vehicle-damage-detection
 -  *AI & ML projects- https://github.com/vibhor-tech/ml-project-credit-risk-model
